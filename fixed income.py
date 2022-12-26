@@ -1,3 +1,5 @@
+
+
 def calc(income):
     xadamat = income // 17
     karabay_aw_u_molida = income // 85 + income // 17
